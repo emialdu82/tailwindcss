@@ -1,0 +1,10 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+ 
+#hero-home{
+    background-image: url("mesa.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
