@@ -3,17 +3,19 @@ body{
 }
  
 #hero-home{
-    background-image: url("mesa.jpeg");
+    background-image: url(nassar.png);
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
 }
 
-#hero-home div{
+/*#hero-home div{
     background-color: rgb(0 0 0 / 50%);
-}
+}*/
 
 #cards-container{
-    height: 45vh;
+    height: 63vh;
     width: 100%;
     background-color: aquamarine;
 }
